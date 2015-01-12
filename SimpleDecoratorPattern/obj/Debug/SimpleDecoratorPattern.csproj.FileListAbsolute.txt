@@ -1,0 +1,6 @@
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\bin\Debug\SimpleDecoratorPattern.exe.config
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\bin\Debug\SimpleDecoratorPattern.exe
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\bin\Debug\SimpleDecoratorPattern.pdb
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\obj\Debug\SimpleDecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\obj\Debug\SimpleDecoratorPattern.exe
+C:\Users\Delfs\Documents\Projekter\SimpleDecoratorPattern\SimpleDecoratorPattern\obj\Debug\SimpleDecoratorPattern.pdb
